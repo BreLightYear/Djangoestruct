@@ -1,1 +1,0 @@
-web: gunicorn service_tech.config.wsgi:application
